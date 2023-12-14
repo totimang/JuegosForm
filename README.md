@@ -16,6 +16,6 @@
     <img src="https://i.ibb.co/Vw5C1mg/4.png" alt="Ejercicio de aritmética">
     <p>Escribir el nombre nombre del animal correspondiente dentro de cada caja, abajo se encuentra la ayuda.</p>
     <img src="https://i.ibb.co/dgQLJW4/5.png" alt="Ejercicio de animales">
-    <p>Escribir la palabra correspondiente para que sea acorde a la letra, dentro cada caja, abajo se encuentra la ayuda.</p>
+    <p>Escribir la palabra correspondiente para que sea acorde al parrafo dentro cada caja, abajo se encuentra la ayuda.</p>
     <img src="https://i.ibb.co/YhRhYmZ/6.png" alt="Ejercicio de canciones">
 </figure>
